@@ -329,8 +329,8 @@ h1 {
 }
 
 .card-name {
-    margin-top: 32px;
-    margin-bottom: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
     text-align: center;
 }
 
@@ -351,6 +351,7 @@ h1 {
 
 .card-name .aside-card-name {
     margin-bottom: 8px;
+
 }
 
 /* ______ FOOTER ________  */
